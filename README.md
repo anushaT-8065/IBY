@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org) project titled - Messaging service Proto
  ```bash
 Prerequisites
 Node.js (for both frontend and backend)
-MongoDB or any other database
+MongoDB 
 NPM (Node Package Manager)
 ```
 ## Getting Started

@@ -1,3 +1,9 @@
+##Details for intern application
+ ```bash
+Name - Anusha Tiwari
+Institute - IIT Mandi
+Major - Computer Science
+```
 This is a [Next.js](https://nextjs.org) project titled - Messaging service Prototype
 
 ##Installation

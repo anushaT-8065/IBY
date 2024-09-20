@@ -24,6 +24,8 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 2 screenshots of the web app have been added for reference.
+Also, the node modules folder has not been added. 
+
 
 ##Project Structure
 ```bash

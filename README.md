@@ -1,11 +1,12 @@
 This is a [Next.js](https://nextjs.org) project titled - Messaging service Prototype
 
 ##Installation
+ ```bash
 Prerequisites
 Node.js (for both frontend and backend)
 MongoDB or any other database
 NPM (Node Package Manager)
-
+```
 ## Getting Started
 
 First, run the development server:
